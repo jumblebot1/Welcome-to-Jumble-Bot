@@ -1,6 +1,4 @@
-Write up mixer 
-
-Introduction to Jumble bot
+Introduction to Jumble bot 🤖🛰️
 
 Jumble bot is a fully decentralised project allowing users to obscure transactions through a simple send. 
 Our smart contracts are thoroughly audited, they also can’t be tampered with. These features are what makes Jumble bot fully decentralised as even the developers are not able to change the process and play with the contracts. Making funds SAFU.
