@@ -1,11 +1,14 @@
 INTRODUCTION TO JUMBLE BOT 🤖🛰️
 
+
+
 Jumble bot is a fully decentralised project allowing users to obscure transactions through a simple send. 
 Our smart contracts are thoroughly audited, they also can’t be tampered with. These features are what makes Jumble bot fully decentralised as even the developers are not able to change the process and play with the contracts. Making funds SAFU.
 
 Users will be provided with a unique combination of letters and numbers which will be different on each transaction. Take good care and save this code, this gives the users of Jumble bot full control over their assets, leaving you the withdraw your funds at any time. The longer funds are left inside the mixer, the more it’ll be jumbled with volume. Making every second that passes more difficult to trace your funds.
 
 PRIVACY 🤫
+
 
 The smart contract being used will initially accept only ETH. Along with updates and further versions of Jumble bot we will accept and obscure more tokens, this comes with volume. With the contract being used you’re able to deposit from your current address with the funds in it, and using the unique code you’re able to withdraw to another address. 
 
@@ -37,5 +40,6 @@ User X deposits 1 ETH x3 and 0.1 ETH x5
 This makes it very difficult to trace as it’s hard to differentiate which amount belongs to either User A or User X.
 
 NETWORKS 📡
+
 
 With volume we plan to implement USDC, USDT, DAI and more tokens. Currently Jumble bot will only accept ETH, but this will change in the near-future.
