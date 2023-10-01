@@ -1,6 +1,11 @@
 INTRODUCTION TO JUMBLE BOT 🤖🛰️
 
-
+CA: 
+MIXER POOLS: 
+(1) 0x289664E0644c6CD3f811439B7a8E34AedAA76DBA
+(2)
+(3)
+(4) 
 
 Jumble bot is a fully decentralised project allowing users to obscure transactions through a simple send. 
 Our smart contracts are thoroughly audited, they also can’t be tampered with. These features are what makes Jumble bot fully decentralised as even the developers are not able to change the process and play with the contracts. Making funds SAFU.
@@ -8,7 +13,6 @@ Our smart contracts are thoroughly audited, they also can’t be tampered with. 
 Users will be provided with a unique combination of letters and numbers which will be different on each transaction. Take good care and save this code, this gives the users of Jumble bot full control over their assets, leaving you the withdraw your funds at any time. The longer funds are left inside the mixer, the more it’ll be jumbled with volume. Making every second that passes more difficult to trace your funds.
 
 PRIVACY 🤫
-
 
 The smart contract being used will initially accept only ETH. Along with updates and further versions of Jumble bot we will accept and obscure more tokens, this comes with volume. With the contract being used you’re able to deposit from your current address with the funds in it, and using the unique code you’re able to withdraw to another address. 
 
@@ -39,7 +43,32 @@ User X deposits 1 ETH x3 and 0.1 ETH x5
 
 This makes it very difficult to trace as it’s hard to differentiate which amount belongs to either User A or User X.
 
-NETWORKS 📡
+INSTRUCTIONS 👨‍🏫
 
+DEPOSIT:
+1) dm @Jumblemixerbot on Telegram
+2) click start
+3) click deposit
+4) send the EXACT amount of eth to the wallet address given (Including ALL decimals)
+5) once you have sent the tx and it has confirmed, click “confirm”
+6) store your secret phrase somewhere safe and DO NOT share it with anyone, not even someone from the Jumblebot team
+
+Its recommended that you:
+
+- do not withdraw to the same address that you deposited to
+- you wait some time for your funds to mix with other users funds
+- read all instructions CAREFULLY, there is no rush
+
+  
+WITHDRAWS:
+
+1) dm @Jumblemixerbot on Telegram
+2) click ‘start’ or type ‘/start’
+3) click withdraw
+4) enter your secret phrase 
+5) enter the ethereum address that you want to withdraw to
+6) confirm the details are correct then click “confirm”
+
+NETWORKS 📡
 
 With volume we plan to implement USDC, USDT, DAI and more tokens. Currently Jumble bot will only accept ETH, but this will change in the near-future.
