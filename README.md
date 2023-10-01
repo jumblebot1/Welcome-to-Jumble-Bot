@@ -2,9 +2,15 @@ INTRODUCTION TO JUMBLE BOT 🤖🛰️
 
 CA: 
 MIXER POOLS: 
-(1) 0x289664E0644c6CD3f811439B7a8E34AedAA76DBA
+
+(1) 
+
+0x289664E0644c6CD3f811439B7a8E34AedAA76DBA
+
 (2)
+
 (3)
+
 (4) 
 
 Jumble bot is a fully decentralised project allowing users to obscure transactions through a simple send. 
