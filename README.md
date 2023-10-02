@@ -52,6 +52,12 @@ User X deposits 1 ETH x3 and 0.1 ETH x5
 
 This makes it very difficult to trace as it’s hard to differentiate which amount belongs to either User A or User X.
 
+TOKENOMICS
+
+10,000,000 $JUMBLE
+5/5 tax (2% rev share, 1% dev costs/mixer fees, 1% marketing, 1% team)
+
+
 INSTRUCTIONS 👨‍🏫
 
 DEPOSIT:
