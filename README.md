@@ -25,7 +25,7 @@ PRIVACY 🤫
 
 The smart contract being used will initially accept only ETH. Along with updates and further versions of Jumble bot we will accept and obscure more tokens, this comes with volume. With the contract being used you’re able to deposit from your current address with the funds in it, and using the unique code you’re able to withdraw to another address. 
 
-There are certain steps that you could take to maximise the potential of Jumble bot, such as: leaving your funds for a longer period of time (this will make it harder to trace as there will be further deposits after yours), using a relayer for gas payments to allow you to withdraw to an address with no balance, splitting your transactions into smaller amounts, and many more. 
+There are certain steps that you could take to maximise the potential of Jumble bot, such as: leaving your funds for a longer period of time (this will make it harder to trace as there will be further deposits after yours), splitting your transactions into smaller amounts, and many more. 
 
 There will be a few different set amounts which are able to be deposited into the pool to be mixed. This helps users get closer to full privacy as it’d be a lot more difficult for someone to match your transactions without these set pools. 
 
@@ -38,7 +38,7 @@ Nothing has been obscured as it makes it obvious who has withdrawn those specifi
 
 To avoid this, we have set pools.
 
-With the set pools the users will be able to deposit 0.1, 1, 5 or 10 ETH.
+With the set pools the users will be able to deposit 0.1, 0.25, 0.5 or 1 ETH. (more pools will be added soon)
 
 So now for example,
 
